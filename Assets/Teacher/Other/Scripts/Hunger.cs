@@ -44,13 +44,13 @@ namespace Teacher
 
             if(HungerBar.value <= 0)
             {
-<<<<<<< HEAD
-                UnityEngine.SceneManagement.SceneManager.LoadScene(1);
-=======
 
                 UnityEngine.SceneManagement.SceneManager.LoadScene(1);
 
->>>>>>> 9edfcbcbd85a36c8229d85bc12e11948b1a7fd13
+
+                UnityEngine.SceneManagement.SceneManager.LoadScene(1);
+
+
             }
         }
     }
